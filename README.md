@@ -1,6 +1,6 @@
 # display-time
 
-This is a simple angularjs project to fetch the time from backend service.
+This is a simple angularjs project to fetch the `time` from backend service.
 
 The application once launched will listen on port `9000` and connects to the backend service hosted on port `9050`.
 
